@@ -1,6 +1,6 @@
 body {
     margin: 0;
-background-color: #1C1C1C;
+background-color: #F5F3FF;
 font-family: Inter, Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -11,6 +11,11 @@ width: 550px;
 height: 550px;
 margin-left: auto;
 margin-right: auto;
+margin-bottom: 200px;
+margin-top: 30px;
+padding-left: 100px;
+padding-top: 10px;
+padding-bottom: 0;
 }
 
 h1 {
@@ -37,12 +42,13 @@ button {
     font-size: 16px;
     font-style: medium;
     padding: 10px 15px;
+    cursor: pointer;
 }
 
 .line {
 border-bottom: 2px solid #D5D4D8;
 padding-top: 20px;
-width: 80%;
+width: 78%;
 
 }
 .output-container {
@@ -50,12 +56,16 @@ width: 80%;
 }
 .password-output {
     background-color: #273549;
-    height: 40px;
-    color: white;
+    height: 25px;
+    color: #F5F3FF;
     width: 200px;
     border-radius: 6px;
     margin-right: 20px;
     font-family: Inter;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    padding: 6px 0;
 }
 
 .purple {
