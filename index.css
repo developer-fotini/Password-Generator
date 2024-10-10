@@ -86,7 +86,17 @@ width: 78%;
     button {
         font-size: 12px;
     }
+    .output-container {
+        flex-direction: column;
+    }
+
+    .line {
+        margin-bottom: 20px;
+
+    }
     .password-output {
-        font-size: 10px;
+        font-size: 12px;
+        padding-bottom: 0;
+        margin-top: -10px;
     }
 }
