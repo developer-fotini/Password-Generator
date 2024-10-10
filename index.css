@@ -74,7 +74,7 @@ width: 78%;
 
 @media all and (max-width: 600px) {
     .main-container { 
-        width: 60vw;
+        width: 80vw;
         padding-left: 10px;
     }
     h1 {
