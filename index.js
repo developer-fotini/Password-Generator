@@ -25,7 +25,3 @@ function randomPassword() {
                 }   
         }
     }
-
-
-// pick 15 random indexed for p1
-// pick 15 r indexes for p2
