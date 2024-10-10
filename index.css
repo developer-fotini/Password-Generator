@@ -71,3 +71,22 @@ width: 78%;
 .purple {
     color: #8B5CF6;
 }
+
+@media all and (max-width: 600px) {
+    .main-container { 
+        width: 60vh;
+        padding-left: 10px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 15px;
+    }
+    button {
+        font-size: 12px;
+    }
+    .password-output {
+        font-size: 10px;
+    }
+}
